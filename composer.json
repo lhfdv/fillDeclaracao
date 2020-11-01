@@ -1,0 +1,17 @@
+{
+    "name": "harumi/pdftk",
+    "authors": [
+        {
+            "name": "Lucas H. Franco",
+            "email": "47636364+lhfranco@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"./classes"
+        }
+    },
+    "require": {
+        "mikehaertl/php-pdftk": "^0.9.1"
+    }
+}

@@ -1,0 +1,16 @@
+body{
+    padding-top:1.5em;
+    background-color: rgb(219, 255, 231);
+}
+
+.container{
+    width: 1000px;
+    border: 10px solid green;
+    padding: 20px;
+    margin: 10px;
+}
+
+.dark-mode {
+    background-color: rgb(32, 32, 32);
+    color: white;
+}
